@@ -1,4 +1,6 @@
-# TeamZu-AR-Chat-Unity
+# TeamZu
+
+![TeamZu Chat App on Multiple Platforms](https://take.ms/xBEvn)
 
 TeamZu is a concept app built in Unity that aims to leverage AR foundation and Photon Networking to create a team chat room with AR avatars.
 
@@ -20,7 +22,6 @@ TeamZu is a concept app built in Unity that aims to leverage AR foundation and P
 6. Configure Photon Voice: Now go to Window > Photon Unity Networking > Highlight Server Settings. Then insert the App Id for Photon Voice that you created into the 'App Id Voice' field.
 
 ### Running
-Load up the "Lobby" scene from the Scenes folder and run. 
 You should be able to run the app in editor, build for Android, iOS, or Mac/PC. This demo makes users join the same default room. So if you run the app any time, it should simply connect you to that room. The limit based on Photon's free tier is set to 20 simultaneous users.
 
 ### Todos

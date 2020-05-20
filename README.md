@@ -4,7 +4,7 @@ TeamZu is a concept app built in Unity that aims to leverage AR foundation and P
 
 > Note: the master commit currently does not have AR avatars but simply basic 2D images. The AR avatar functionality is in development, but I will likely create a new feature branch with this functionality when I'm able to make some progress.
 
-![TeamZu Chat App on Multiple Platforms](https://take.ms/xBEvn)
+![TeamZu Chat Room](https://take.ms/jeZjX)
 
 ### Installation
 
